@@ -1,5 +1,7 @@
 ![Screen Shot 2024-01-31 at 10 55 44](https://github.com/ayuboketch/Roman-Numeral-Converter/assets/17433791/f005b3bd-f1f8-4fd9-ad30-93bd7a386c7c)
 
+https://www.linkedin.com/pulse/conquering-complexity-building-roman-numeral-converter-ayub-oketch-sjyrf/
+
 # Roman-Numeral-Converter
 # Unveiling the Elegance: Crafting a JavaScript-Powered Roman Numeral Converter 🌟
 Embark on a journey back to a time when numbers spoke in symbols – I, V, X, L – an era dominated by the Roman numeral system. In the realm of JavaScript, I found inspiration to revive this ancient code of numbers, diving deep into its complexity. Join me in exploring the intricate logic and embracing the collaborative spirit that fuels the art of coding. 🚀
